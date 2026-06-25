@@ -5,3 +5,6 @@ __pycache__/
 *.log
 .vscode/
 .DS_Store
+"*.caffemodel" 
+"*.weights" 
+"*.cfg" 
